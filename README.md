@@ -11,7 +11,7 @@ And this helps me personaly, because I often play games of pokemon on the road, 
 
 Here is a video of the code, and me pulling up different Gym Leaders teams.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Pokemon Gym Team Search Code](https://www.youtube.com/watch?v=7stcYri7rfk)
 
 # Development Environment
 
