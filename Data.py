@@ -62,8 +62,7 @@ elif answer == "NO":
 
 else:
     print("That is not a response.")
-
-## hard sets the input to a number variable     
+     
 
 
 
