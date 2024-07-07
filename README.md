@@ -11,7 +11,7 @@ And this helps me personaly, because I often play games of pokemon on the road, 
 
 Here is a video of the code, and me pulling up different Gym Leaders teams.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Pokemon Gym Team Search Code](https://www.youtube.com/watch?v=7stcYri7rfk)
 
 # Development Environment
 
@@ -31,5 +31,5 @@ These sites really helped me code and fix solutions while making this code.
 I did not have the time to make this as fleshed out as I'd like. Here are some things that id do if I had more time
 - Being able to find a certain pokemon or type on the list.
 - Showing the Gym leaders before choosing the row so they can choose a specific leader.
-- Add the 64 other gym leaders and their teams.
+- Add the 48 other gym leaders and their teams.
 - add more detail to each team member, so you know what moves and abilities they have.
